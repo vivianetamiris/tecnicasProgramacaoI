@@ -1,0 +1,14 @@
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\bin\Debug\net10.0\CadastroDeLivros.exe
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\bin\Debug\net10.0\CadastroDeLivros.deps.json
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\bin\Debug\net10.0\CadastroDeLivros.runtimeconfig.json
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\bin\Debug\net10.0\CadastroDeLivros.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\bin\Debug\net10.0\CadastroDeLivros.pdb
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\obj\Debug\net10.0\CadastroDeLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\obj\Debug\net10.0\CadastroDeLivros.AssemblyInfoInputs.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\obj\Debug\net10.0\CadastroDeLivros.AssemblyInfo.cs
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\obj\Debug\net10.0\CadastroDeLivros.csproj.CoreCompileInputs.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\obj\Debug\net10.0\CadastroDeLivros.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\obj\Debug\net10.0\refint\CadastroDeLivros.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\obj\Debug\net10.0\CadastroDeLivros.pdb
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\obj\Debug\net10.0\CadastroDeLivros.genruntimeconfig.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroDeLivros\obj\Debug\net10.0\ref\CadastroDeLivros.dll

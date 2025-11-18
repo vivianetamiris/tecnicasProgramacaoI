@@ -1,0 +1,14 @@
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\bin\Debug\net10.0\CadastroFazenda.exe
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\bin\Debug\net10.0\CadastroFazenda.deps.json
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\bin\Debug\net10.0\CadastroFazenda.runtimeconfig.json
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\bin\Debug\net10.0\CadastroFazenda.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\bin\Debug\net10.0\CadastroFazenda.pdb
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\obj\Debug\net10.0\CadastroFazenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\obj\Debug\net10.0\CadastroFazenda.AssemblyInfoInputs.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\obj\Debug\net10.0\CadastroFazenda.AssemblyInfo.cs
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\obj\Debug\net10.0\CadastroFazenda.csproj.CoreCompileInputs.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\obj\Debug\net10.0\CadastroFazenda.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\obj\Debug\net10.0\refint\CadastroFazenda.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\obj\Debug\net10.0\CadastroFazenda.pdb
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\obj\Debug\net10.0\CadastroFazenda.genruntimeconfig.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroFazenda\obj\Debug\net10.0\ref\CadastroFazenda.dll

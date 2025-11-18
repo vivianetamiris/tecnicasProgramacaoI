@@ -1,0 +1,14 @@
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\obj\Debug\net7.0\Eletro.GeneratedMSBuildEditorConfig.editorconfig
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\obj\Debug\net7.0\Eletro.AssemblyInfoInputs.cache
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\obj\Debug\net7.0\Eletro.AssemblyInfo.cs
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\obj\Debug\net7.0\Eletro.csproj.CoreCompileInputs.cache
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\bin\Debug\net7.0\Eletro.exe
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\bin\Debug\net7.0\Eletro.deps.json
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\bin\Debug\net7.0\Eletro.runtimeconfig.json
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\bin\Debug\net7.0\Eletro.dll
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\bin\Debug\net7.0\Eletro.pdb
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\obj\Debug\net7.0\Eletro.dll
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\obj\Debug\net7.0\refint\Eletro.dll
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\obj\Debug\net7.0\Eletro.pdb
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\obj\Debug\net7.0\Eletro.genruntimeconfig.cache
+D:\mef\IF\Linguagem I\Semana 7 - Struct\Lista3\Exercicio3\Eletro\obj\Debug\net7.0\ref\Eletro.dll

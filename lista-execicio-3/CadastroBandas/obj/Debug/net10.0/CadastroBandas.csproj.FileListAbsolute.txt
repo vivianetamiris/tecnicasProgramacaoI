@@ -1,0 +1,14 @@
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\bin\Debug\net10.0\CadastroBandas.exe
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\bin\Debug\net10.0\CadastroBandas.deps.json
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\bin\Debug\net10.0\CadastroBandas.runtimeconfig.json
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\bin\Debug\net10.0\CadastroBandas.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\bin\Debug\net10.0\CadastroBandas.pdb
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\obj\Debug\net10.0\CadastroBandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\obj\Debug\net10.0\CadastroBandas.AssemblyInfoInputs.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\obj\Debug\net10.0\CadastroBandas.AssemblyInfo.cs
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\obj\Debug\net10.0\CadastroBandas.csproj.CoreCompileInputs.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\obj\Debug\net10.0\CadastroBandas.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\obj\Debug\net10.0\refint\CadastroBandas.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\obj\Debug\net10.0\CadastroBandas.pdb
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\obj\Debug\net10.0\CadastroBandas.genruntimeconfig.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroBandas\obj\Debug\net10.0\ref\CadastroBandas.dll

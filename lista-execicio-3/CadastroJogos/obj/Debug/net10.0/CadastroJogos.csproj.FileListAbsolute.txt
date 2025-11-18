@@ -1,0 +1,14 @@
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\obj\Debug\net10.0\CadastroJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\obj\Debug\net10.0\CadastroJogos.AssemblyInfoInputs.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\obj\Debug\net10.0\CadastroJogos.AssemblyInfo.cs
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\obj\Debug\net10.0\CadastroJogos.csproj.CoreCompileInputs.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\bin\Debug\net10.0\CadastroJogos.exe
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\bin\Debug\net10.0\CadastroJogos.deps.json
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\bin\Debug\net10.0\CadastroJogos.runtimeconfig.json
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\bin\Debug\net10.0\CadastroJogos.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\bin\Debug\net10.0\CadastroJogos.pdb
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\obj\Debug\net10.0\CadastroJogos.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\obj\Debug\net10.0\refint\CadastroJogos.dll
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\obj\Debug\net10.0\CadastroJogos.pdb
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\obj\Debug\net10.0\CadastroJogos.genruntimeconfig.cache
+C:\Users\vivia\OneDrive\Documentos\IF\C#\CadastroJogos\obj\Debug\net10.0\ref\CadastroJogos.dll
